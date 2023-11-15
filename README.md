@@ -29,7 +29,7 @@ list of specific changes made following the acceptance criteria. </p>
 
 ***
 
-* Replaced <div> non semantics with more appropriate semantic tags. 
+* Replaced non semantics with more appropriate semantic tags. 
 * Added accessible alt attributes.
 * Used the WAVE Evaluation Tool plugin to correct any accessibility errors. 
 * Added a new title and ordered headings chronologically (h1-h6) based on importance of information.
