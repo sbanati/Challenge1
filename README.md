@@ -46,6 +46,9 @@ list of specific changes made following the acceptance criteria. </p>
 <img src="screenshot-2.PNG.png">
 
 
+***
+// The Xpert Learning Assistant was consulted if i was confused with certain styles not applying properly.//
+
 
 
 
