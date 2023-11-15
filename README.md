@@ -1,9 +1,16 @@
 
 # Horiseon-Refactor-Accessibility // Week1 Challenge :On the Job Ticket
-<img src="{https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}"/>
-![image]{https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white}
+
+
+![Static Badge](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&labelColor=black)  ![Static Badge](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=black&color=blue) ![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&labelColor=blue) 
+
+
+![Static Badge](https://img.shields.io/badge/world-black?style=flat-square&label=hello&labelColor=black&color=blue)
+![Static Badge](https://img.shields.io/badge/week1-blue)
+![Static Badge](https://img.shields.io/badge/Challenge1-red)
+
+
+
   
 
 
