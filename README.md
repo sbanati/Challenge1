@@ -12,6 +12,7 @@
 
 
   
+![horiseongif](https://github.com/sbanati/Horiseon-Refactor-Accessibility/assets/149754544/014dca29-e09e-4851-b1b2-dbde17135610)
 
 
 
@@ -26,9 +27,9 @@
 
 
 
-
-## Visual Helper 
-*visual helper, diagram/video/ visual 
+## Screen shots 
+<img src="screenshot-1.PNG.jpg">
+<img src="screenshot-2.PNG.png">
 
 
 
