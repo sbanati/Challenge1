@@ -28,7 +28,7 @@
 
 
 ## Screen shots 
-<img src="screenshot-1.PNG.jpg">
+<img src="screenshot-1.PNG.png">
 <img src="screenshot-2.PNG.png">
 
 
